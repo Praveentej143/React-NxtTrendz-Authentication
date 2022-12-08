@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 1px solid black; */
+  padding: 0px 50px;
+}
+.nav-links-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 1px solid red; */
+  width: 30%;
+}
+.web-logo {
+  width: 137px;
+  height: 32px;
+}
+.links {
+  text-decoration: none;
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.logout-btn {
+  background-color: #0b69ff;
+  height: 37px;
+  width: 117px;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+}

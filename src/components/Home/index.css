@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.bg-container {
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  height: 70vh;
+}
+.container {
+  width: 60%;
+}
+.home-heading {
+  color: #1e293b;
+  font-size: 40px;
+}
+.desc {
+  color: #475569;
+  font-size: 18px;
+}
+.home-img {
+  width: 450px;
+  min-width: 200px;
+  max-width: 450px;
+}
+.shop-btn {
+  background-color: #0b69ff;
+  height: 37px;
+  width: 117px;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+}
